@@ -1,4 +1,3 @@
-tarfile
 wget
 astropy
 

@@ -1,3 +1,7 @@
 wget
+numpy
+matplotlib
+scipy
 astropy
 sunpy
+
